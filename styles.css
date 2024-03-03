@@ -4,3 +4,10 @@
 	height:500px;
 	width:500px;
 }
+.movieDetail{
+	position:relative;
+	top:10px;
+	width:20px;
+	text-align:left;
+	font-size:20px;
+}
